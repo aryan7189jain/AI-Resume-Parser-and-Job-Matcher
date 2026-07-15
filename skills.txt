@@ -1,0 +1,31 @@
+Python
+Java
+C++
+C#
+SQL
+MySQL
+MongoDB
+Machine Learning
+Deep Learning
+Natural Language Processing
+NLP
+Computer Vision
+Data Science
+TensorFlow
+PyTorch
+Pandas
+NumPy
+Scikit-learn
+Flask
+Django
+FastAPI
+Git
+Docker
+Kubernetes
+Linux
+Power BI
+Tableau
+Excel
+AWS
+Azure
+GCP
